@@ -1,0 +1,15 @@
+.logo.png{
+    width: 100px;
+    }
+.first-menu a:link, .first-menu a:visited{
+color: orange;
+}
+#hero-banner{
+    width: 100px;
+    background-image: url('..images/bamboo-rafting-260nw-449197021.jpg.webp');
+    height: 1500px;
+    background-repeat: no-repeat;
+}
+#hero-image{
+    display: none;
+}
